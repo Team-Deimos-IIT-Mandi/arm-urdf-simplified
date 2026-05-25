@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'z_axis', 'link_1', 'link_2', 'link_3', 'wrist_1', 'gripper-wrist', 'claw1-slide', 'finger1-rotate', 'claw2-slide', 'finger2-rotate', ]
